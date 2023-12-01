@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560311559826",
+    "firebase_url": "https://appchat-f6fbe-default-rtdb.firebaseio.com",
+    "project_id": "appchat-f6fbe",
+    "storage_bucket": "appchat-f6fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560311559826:android:93611a7ee20b41ea25e84b",
+        "android_client_info": {
+          "package_name": "binhntph28014.fpoly.bai_lam_them12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560311559826-crht91t8mu7vp6qi5juoka5p0c9i9evm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "binhntph28014.fpoly.bai_lam_them12",
+            "certificate_hash": "65e6d5ebed69fd76519ed211f2fc228019f0ce58"
+          }
+        },
+        {
+          "client_id": "560311559826-3moeeho47dabosql12bbvn20eljcf6no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZe6rUpz-YxS7skqJ-v4j7I9vneROyul8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560311559826-3moeeho47dabosql12bbvn20eljcf6no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
